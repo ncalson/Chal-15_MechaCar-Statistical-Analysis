@@ -47,7 +47,9 @@ The normal significance level for a p-value is anything greater than 0.05. Acros
 
 ## Study Design: MechaCar vs Competition
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-- This statistical study is on how MechaCar compares to its competition in regards to being the most cost-efficient car for daily commuting.
+
+
+This statistical study is on how MechaCar compares to its competition in regards to being the most cost-efficient car for daily commuting.
 
 1. What metric or metrics are you going to test?
 
