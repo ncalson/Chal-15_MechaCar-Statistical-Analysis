@@ -4,16 +4,13 @@
 ![this is an image](https://github.com/ncalson/Chal-15_MechaCar-Statistical-Analysis/blob/main/images/Deliverable%201_Linear%20Regression%20to%20Predict%20MPG.png)
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-
-Vehicle length and ground clearance are the variables that provided a non-random amount of variance to the mpg values.
+- Vehicle length and ground clearance are the variables that provided a non-random amount of variance to the mpg values.
 
 2. Is the slope of the linear model considered to be zero? Why or why not?
-
-The slope of the linear model cannot be considered zero because the p-value (5.35e-11) is less than 0.05.
+- The slope of the linear model cannot be considered zero because the p-value (5.35e-11) is less than 0.05.
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-
-Because the R-square is valued at 0.71, which means there's a 71% chance this linear model will effectively predict mpg of MechaCar prototypes.
+- Because the R-square is valued at 0.71, which means there's a 71% chance this linear model will effectively predict mpg of MechaCar prototypes.
 
 ## Summary Statistics on Suspension Coils
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
@@ -48,18 +45,14 @@ Write a short description of a statistical study that can quantify how the Mecha
 - This statistical study is on how MechaCar compares to its competition in regards to being the most cost-efficient car for daily commuting.
 
 1. What metric or metrics are you going to test?
-
-Metrics to be tested include fuel efficiency, road/route conditions (i.e. highway vs. city routes), and maintenance costs.
+- Metrics to be tested include fuel efficiency, road/route conditions (i.e. highway vs. city routes), and maintenance costs.
 
 2. What is the null hypothesis or alternative hypothesis?
-
 - The null hypothesis is that there are no differences in regards to fuel efficiency, road/route conditions, or maintenance costs between MechaCar and its competition.
 - The alternative hypothesis is that there are differences between MechaCar and its competitors in regards to who outperforms in terms of fuel efficiency and maintenance costs.
 
 3. What statistical test would you use to test the hypothesis? And why?
-
-I would use a statistical summary for analyzing multiple metrics (i.e. fuel efficiency, maintenance costs, etc.).  
+- I would use a statistical summary for analyzing multiple metrics (i.e. fuel efficiency, maintenance costs, etc.).  
 
 4. What data is needed to run the statistical test?
-
-Comparable data criteria between MechaCar and its competitors requried to run the statistical test would include maintenance costs, city vs. highway mpg, and fuel efficiency stats.
+- Comparable data criteria between MechaCar and its competitors requried to run the statistical test would include maintenance costs, city vs. highway mpg, and fuel efficiency stats.
