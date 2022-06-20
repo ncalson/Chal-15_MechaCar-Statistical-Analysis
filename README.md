@@ -20,10 +20,12 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ### Total Summary
 ![this is an image](https://github.com/ncalson/Chal-15_MechaCar-Statistical-Analysis/blob/main/images/Deliverable%202_Total%20Summary.png)
+
 There is an average variance of 62.29356 pounds per square inch, while the required variance of the suspension coils most not exceed 100 pounds per square inch. Therefore this variance is permissible.
 
 ### Lot Summary
 ![this is an image](https://github.com/ncalson/Chal-15_MechaCar-Statistical-Analysis/blob/main/images/Deliverable%202_Lot%20Summary.png)
+
 After looking at each the lot summary, it should be noted that Lot 3 has a variance of 170 pounds per square inch, and therefore exceeds the 100 pounds per square inch limit.
 
 ## T-Tests on Suspension Coils
