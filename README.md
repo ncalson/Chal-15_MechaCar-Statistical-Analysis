@@ -31,7 +31,7 @@ After looking at the lot summary, it should be noted that lot 3 has a variance o
 ## T-Tests on Suspension Coils
 Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
-The normal significance level for a p-value is 0.05. Across all lots, and individually at lots 1 and 2, the p-value was greater than 0.05. However, at Lot 3, the p-value was 0.04168, indicating a statistical difference from the population mean of 1500 pounds per inches squared.
+The normal significance level for a p-value is anything greater than 0.05. Across all lots, and individually at lots 1 and 2, the p-value was greater than 0.05. However, at Lot 3, the p-value was 0.04168, indicating a statistical difference from the population mean of 1500 pounds per inches squared.
 
 ### All Lots T-Test
 ![this is an image](https://github.com/ncalson/Chal-15_MechaCar-Statistical-Analysis/blob/main/images/Deliverable%203_T-Test.png)
