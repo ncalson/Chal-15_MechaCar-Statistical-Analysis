@@ -26,7 +26,7 @@ There is an average variance of 62.29356 pounds per square inch, while the requi
 ### Lot Summary
 ![this is an image](https://github.com/ncalson/Chal-15_MechaCar-Statistical-Analysis/blob/main/images/Deliverable%202_Lot%20Summary.png)
 
-After looking at the lot summary, it should be noted that Lot 3 has a variance of 170 pounds per square inch, and therefore exceeds the 100 pounds per square inch limit.
+After looking at the lot summary, it should be noted that lot 3 has a variance of 170 pounds per square inch, and therefore exceeds the 100 pounds per square inch limit.
 
 ## T-Tests on Suspension Coils
 Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
